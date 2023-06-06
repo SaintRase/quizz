@@ -1,0 +1,9 @@
+future enhancements that could be added in the future:
+
+1. user profiles so that multiple different users can use the application while having their scores, high scores saved.
+
+2. gamification features to add to the first point. users would be able to go on daily streaks based on them practicing everyday for example. could also add other features like daily leaderboard which would require multiplayer mode
+
+3. multiplayer mode, could add feature where random players go against each other to see who could finish the quizz the fastest. and they get points for that
+
+4. a difficulty mode. could add a difficualty selector to choose how difficualt the generated problems should be

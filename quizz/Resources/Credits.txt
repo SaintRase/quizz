@@ -1,0 +1,7 @@
+credits:
+
+https://youtu.be/MaTj-PWJwwI
+
+https://www.w3schools.com/python/python_lambda.asp
+
+https://www.w3schools.com/js/js_random.asp

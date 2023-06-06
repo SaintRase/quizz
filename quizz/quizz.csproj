@@ -92,5 +92,9 @@
   <ItemGroup>
     <None Include="Resources\3bQD1J-star-clipart-hd-photo-png.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Credits.txt" />
+    <Content Include="Resources\Future Enhancements.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
